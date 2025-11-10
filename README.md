@@ -130,7 +130,7 @@ Kolik je možné si koupit litrů mléka a kilogramů chleba za první a posledn
 
 
 
-roce 2006 byla průměrná cena mléka 14,44 Kč za litr a chleba 16,12 Kč za kilogram. Při průměrné mzdě 20 754 Kč si tedy bylo možné koupit celkem přibližně 679 kusů (litrů a kilogramů) těchto základních potravin.
+V roce 2006 byla průměrná cena mléka 14,44 Kč za litr a chleba 16,12 Kč za kilogram. Při průměrné mzdě 20 754 Kč si tedy bylo možné koupit celkem přibližně 679 kusů (litrů a kilogramů) těchto základních potravin.
 
 
 

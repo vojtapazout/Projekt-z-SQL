@@ -8,13 +8,13 @@ SELECT
 FROM economies e
 JOIN countries c 
     ON e.country = c.country
-WHERE e.year BETWEEN (
-        SELECT MIN(payroll_year) FROM czechia_payroll
+WHERE c.continent = 'Europe'
+  AND e.year BETWEEN (
+        SELECT MIN(year) FROM t_vojta_pazout_project_SQL_primary_final
     ) AND (
-        SELECT MAX(payroll_year) FROM czechia_payroll
+        SELECT MAX(year) FROM t_vojta_pazout_project_SQL_primary_final
     )
 GROUP BY e.country, e.year
 ORDER BY e.country, e.year;
 
-select *
-from t_vojta_pazout_project_sql_secondary_final tvppssf
+
